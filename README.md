@@ -1,10 +1,11 @@
-# Projecto-GF13-009NF-MOODLE-Mark-IV-Ros-ReXia-Cesi-Edition-Ultracompacto-WebSite-4.12-GEN-Aka-Aurelu
+# Make Exia Moodle Great Again
 
-C'est juste un addon pour changer le thème de moodle 👌
+Le nouveau Moodle était pas très joli du coup voila.
 
 
-> Merci à Youssef pour le nom, Romain pour la version firefox & Pierre pour le logo (même s'il est pas utilisé) ainsi que Louis pour le js.
 
+Dispo sur les stores :
 <ul>
-<li> Version Firefox : https://addons.mozilla.org/fr/firefox/addon/exia-theme-is-beautiful/
+<li>Firefox : https://addons.mozilla.org/fr/firefox/addon/memga/
+<li>Chrome : https://chrome.google.com/webstore/detail/make-exia-moodle-great-ag/jkgfafemgjepciihckagfefihobfilic
 </ul>
