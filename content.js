@@ -21,7 +21,8 @@ document.addEventListener("DOMContentLoaded", function() {
     for(const module of modules){
         const links = module.querySelectorAll('a');
         for(const link of links){
-            link.href += "&redirect=1";
+            if(link.hostname === "moodle-exia.cesi.fr")
+                link.href += "&redirect=1";
         }
     }
 });
